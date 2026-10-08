@@ -10,5 +10,5 @@ _Negrito dentro do **Italico**_
 
 ###### Melhorias
 
-__Italico com underline__ 
-_Negrito com Uderline_
+_Italico com underline_ 
+__Negrito com Uderline__
