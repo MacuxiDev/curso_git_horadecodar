@@ -4,8 +4,11 @@ vamos criar um **e-comercer** para *empresa* x
 
 ## Funcionalidades:
 
-Checkout, Tela
+_Negrito dentro do **Italico**_
+
+**Italico dentro do _Negreito_**
 
 ###### Melhorias
 
-melhoria1 melhoria
+__Italico com underline__ 
+_Negrito com Uderline_
