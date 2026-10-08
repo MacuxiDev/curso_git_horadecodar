@@ -38,5 +38,7 @@ __Negrito com Uderline__
 
 ### Links
 
-[Google](https://scholar.google.com/?hl=pt-BR)
+[Google Acadêmico](https://scholar.google.com/?hl=pt-BR)
+[https://www.google.com/?hl=pt_BR](https://www.google.com/?hl=pt_BR)
+site da google: https://www.google.com/?hl=pt_BR 
 
