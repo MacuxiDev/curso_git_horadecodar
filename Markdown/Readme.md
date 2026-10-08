@@ -23,9 +23,9 @@ __Negrito com Uderline__
 
 ### Funcionalisdas a desenvolver 
 
-1.A
-    1.A
-    2.B
-    3.C
-2.B
-3.V
+1. A
+    1. A
+    2. B
+    3. C
+2. B
+3. V
