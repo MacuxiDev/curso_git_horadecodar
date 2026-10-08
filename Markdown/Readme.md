@@ -21,7 +21,7 @@ __Negrito com Uderline__
 * PHP
 * MySQL
 
-### Funcionalisdas a desenvolver ###
+### Funcionalisdas a desenvolver 
 
 1.A
     1.A
