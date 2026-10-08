@@ -12,3 +12,11 @@ _Negrito dentro do **Italico**_
 
 _Italico com underline_ 
 __Negrito com Uderline__
+
+### Linguagens do Projeto ###
+
+* HTML
+* CSS
+* JavaScript
+* PHP
+* MySQL
