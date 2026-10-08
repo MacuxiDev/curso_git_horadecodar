@@ -32,7 +32,7 @@ __Negrito com Uderline__
 
 ### Imagens 
 
-![Projeto de Pesquisa](img/colorido_transparente.png)
+![Projeto de Pesquisa](../img/colorido_transparente.png)
 
 ![Google Academicos](https://scholar.google.com/intl/pt-BR/scholar/images/1x/scholar_logo_64dp.png)
 
